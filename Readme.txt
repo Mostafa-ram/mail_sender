@@ -2,7 +2,7 @@ python automation script sending mails...
 
 >> this script help you to automate sending mails from gmail to more than one resever mail at one time 
 
->> you just ned to put 6 things that you will find them inside ### ### in the code
+>> you just need to put 6 things that you will find them inside ### ### in the code
 
 1- put txt file that hase emails with the next regulations
 
