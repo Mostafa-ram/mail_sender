@@ -4,7 +4,7 @@ python automation script sending mails...
 
 >> you just need to put 6 things that you will find them inside ### ### in the code
 
-1- put txt file that hase emails with the next regulations
+1- put path of the txt file that hase emails with the next regulations
 
 #txt file must be formated as  the next example:
 #mail space then the owner of the mail <mohamed@gmail.com   mohamed>
